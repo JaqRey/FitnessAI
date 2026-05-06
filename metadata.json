@@ -1,0 +1,6 @@
+{
+  "name": "TitanAI Fitness Companion",
+  "description": "An AI-powered personal trainer and nutritionist using advanced prompt engineering to generate custom fitness and wellness plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI-driven workout plans", "Dietary recommendations", "Prompt engineering comparison"]
+}
